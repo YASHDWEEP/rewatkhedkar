@@ -1,13 +1,11 @@
 <p align="center">
-  <video
-    src="./assets/hero.mp4"
-    autoplay
-    muted
-    loop
-    playsinline
-    width="900">
-  </video>
+  <img
+    src="./assets/image.png"
+    width="180"
+    alt="Rewat Khedkar"
+  >
 </p>
+
 <h1 align="center">👋 Hi, I'm Rewat Khedkar</h1>
 
 <h3 align="center">
@@ -20,30 +18,24 @@
 </p>
 
 <p align="center">
-  <img
-    src="./assets/image.png"
-    width="180"
-    alt="Rewat Khedkar"
-  >
+  <a href="mailto:rewatkhedkar16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/yashdweep">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
 </p>
 
-<a href="mailto:rewatkhedkar16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/rewatkhedkar16">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/YASHDWEEP">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/u/REWATKHEDKAR/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-
-</p>
+<hr>
 <hr>
 
 <h2 align="center">🚀 About Me</h2>

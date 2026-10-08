@@ -406,3 +406,120 @@ Python Certification
     alt="GitHub Contribution Snake"
   >
 </p>
+<hr>
+
+<h2 align="center">🎓 Education</h2>
+
+<table align="center" width="90%">
+<tr>
+
+<td width="70%" valign="top">
+
+<h3>🏫 G H Raisoni College of Engineering and Management</h3>
+
+<p>
+<b>Bachelor of Technology — Information Technology</b>
+</p>
+
+<p>
+📍 Pune, India
+</p>
+
+<p>
+📅 2023 – 2027
+</p>
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+🎓
+<br>
+<b>B.Tech IT</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="70%" valign="top">
+
+<h3>📚 Smt. Rukhaminidevi Shankarlal Agarwal Science College</h3>
+
+<p>
+<b>Higher Secondary Certificate Examination</b>
+</p>
+
+<p>
+📍 Gondia, India
+</p>
+
+<p>
+📅 2022 – 2023
+</p>
+
+<p>
+<b>Percentage:</b> 73.83%
+</p>
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+📖
+<br>
+<b>HSC</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="70%" valign="top">
+
+<h3>🏫 M. B. Patel Highschool and Jr. College</h3>
+
+<p>
+<b>Secondary School Certificate</b>
+</p>
+
+<p>
+📍 Deori, India
+</p>
+
+<p>
+📅 2021
+</p>
+
+<p>
+<b>Percentage:</b> 89.80%
+</p>
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+📘
+<br>
+<b>SSC</b>
+
+</td>
+
+</tr>
+
+</table>
+<hr>
+
+<h3 align="center">
+  💻 Keep Learning • Keep Building • Keep Growing 🚀
+</h3>
+
+<p align="center">
+  Thanks for visiting my GitHub profile!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashdweep&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>

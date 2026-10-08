@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/image.png"
+    src="https://raw.githubusercontent.com/yashdweep/yashdweep/main/assets/image.png"
     width="180"
     alt="Rewat Khedkar"
   >
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<hr>
+
 <hr>
 
 <h2 align="center">🚀 About Me</h2>

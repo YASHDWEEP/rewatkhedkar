@@ -391,12 +391,28 @@ Python Certification
 </p>
 <hr>
 
+<hr>
+
+<hr>
+
 <h2 align="center">🐍 My Contribution Graph</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YASHDWEEP/YASHDWEEP/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YASHDWEEP/YASHDWEEP/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YASHDWEEP/YASHDWEEP/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/YASHDWEEP/YASHDWEEP/output/github-contribution-grid-snake.svg"
+      width="95%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>

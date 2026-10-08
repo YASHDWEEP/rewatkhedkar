@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/profile.png"
+    src="./assets/rewat.jpg"
     width="180"
     alt="Rewat Khedkar"
   >

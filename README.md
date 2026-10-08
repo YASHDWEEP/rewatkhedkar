@@ -344,7 +344,16 @@ April 2026
 
 ### 🗄️ SQL
 **SQL (Basic)**  
-**SQL (Intermediate)**
+
+<a href="https://www.hackerrank.com/certificates/iframe/8cf954631aad">
+  <img src="./assets/sql-basics-certificate.png" width="400" alt="SQL Basics Certificate">
+</a>
+
+**SQL (Intermediate)**  
+
+<a href="https://www.hackerrank.com/certificates/iframe/dd34372a28f9">
+  <img src="./assets/sql-intermediate-certificate.png" width="400" alt="SQL Intermediate Certificate">
+</a>
 
 </td>
 
@@ -355,21 +364,25 @@ April 2026
 <td width="50%" valign="top">
 
 ### ☕ Java
-Java Certification
+<a href="https://www.hackerrank.com/certificates/iframe/21af2e60ba69">
+  <img src="./assets/java-certificate.png" width="400" alt="Java Basics Certificate">
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🐍 Python
-Python Certification
+<a href="https://www.hackerrank.com/certificates/iframe/701a64728505">
+  <img src="./assets/python-basics-certificate.png" width="400" alt="Python Basics Certificate">
+</a>
 
 </td>
 
 </tr>
 </table>
-<hr>
 
+<hr>
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">

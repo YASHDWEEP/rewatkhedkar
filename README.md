@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/yashdweep/yashdweep/main/assets/image.png"
+    src="https://raw.githubusercontent.com/yashdweep/yashdweep/main/assets/profile.png"
     width="180"
     alt="Rewat Khedkar"
   >

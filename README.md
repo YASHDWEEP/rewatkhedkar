@@ -389,10 +389,14 @@ Python Certification
     width="45%"
   />
 </p>
+<hr>
+
+<h2 align="center">🐍 My Contribution Graph</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YASHDWEEP&theme=tokyo-night&hide_border=true"
+    src="https://raw.githubusercontent.com/YASHDWEEP/YASHDWEEP/output/github-contribution-grid-snake.svg"
     width="95%"
-    alt="GitHub Activity Graph"
+    alt="GitHub Contribution Snake"
   />
 </p>

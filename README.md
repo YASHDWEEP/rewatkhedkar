@@ -325,90 +325,15 @@ Earned the **50 Days Badge** in 2025 and 2026 and practiced
 </tr>
 </table>
 <hr>
-<h2 align="center">📜 Certifications</h2>
+## 📜 Certifications
 
-<table align="center">
-<tr>
+| 📊 Data Analytics | 🗄️ SQL |
+|:---|:---|
+| **Basics of Data Analytics**<br>Microsoft & Physics Wallah<br>April 2026<br><br>![Data Analytics Certificate](./assets/basic_DA.png) | **SQL (Basic)**<br><br>[![SQL Basic Certificate](./assets/SQL-basic.png)](https://www.hackerrank.com/certificates/iframe/8cf954631aad)<br><br>**SQL (Intermediate)**<br><br>[![SQL Intermediate Certificate](./assets/Sql-intermediate.png)](https://www.hackerrank.com/certificates/iframe/dd34372a28f9) |
 
-<td width="50%" valign="top">
-
-### 📊 Data Analytics
-**Basics of Data Analytics**  
-Microsoft & Physics Wallah  
-April 2026
-
-<br>
-
-<img
-  src="./assets/basic_DA.png"
-  width="400"
-  alt="Basics of Data Analytics Certificate"
->
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗄️ SQL
-
-**SQL (Basic)**
-
-<a href="https://www.hackerrank.com/certificates/iframe/8cf954631aad">
-  <img
-    src="./assets/SQL-basic.png"
-    width="400"
-    alt="SQL Basic Certificate"
-  >
-</a>
-
-<br><br>
-
-**SQL (Intermediate)**
-
-<a href="https://www.hackerrank.com/certificates/iframe/dd34372a28f9">
-  <img
-    src="./assets/Sql-intermediate.png"
-    width="400"
-    alt="SQL Intermediate Certificate"
-  >
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ☕ Java
-
-<a href="https://www.hackerrank.com/certificates/iframe/21af2e60ba69">
-  <img
-    src="./assets/Java-basic.png"
-    width="400"
-    alt="Java Basic Certificate"
-  >
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐍 Python
-
-<a href="https://www.hackerrank.com/certificates/iframe/701a64728505">
-  <img
-    src="./assets/python-basic.png"
-    width="400"
-    alt="Python Basic Certificate"
-  >
-</a>
-
-</td>
-
-</tr>
-</table>
+| ☕ Java | 🐍 Python |
+|:---|:---|
+| [![Java Basic Certificate](./assets/Java-basic.png)](https://www.hackerrank.com/certificates/iframe/21af2e60ba69) | [![Python Basic Certificate](./assets/python-basic.png)](https://www.hackerrank.com/certificates/iframe/701a64728505) |
 
 <hr>
 <h2 align="center">📊 GitHub Analytics</h2>
